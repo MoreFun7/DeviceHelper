@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/lan">
+        <file>language/Translate_CN.ts</file>
+        <file>language/Translate_EN.ts</file>
+        <file>language/Translate_RU.ts</file>
+        <file>language/Translate_CN.qm</file>
+        <file>language/Translate_EN.qm</file>
+        <file>language/Translate_RU.qm</file>
+    </qresource>
+</RCC>

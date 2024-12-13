@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qmlui">
+        <file>qml/titlebar.qml</file>
+    </qresource>
+</RCC>

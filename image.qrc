@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>res/Fold.png</file>
+        <file>res/ProgramIcon.png</file>
+    </qresource>
+</RCC>
